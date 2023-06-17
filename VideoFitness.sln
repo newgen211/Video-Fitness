@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoFitness", "VideoFitness\VideoFitness.csproj", "{D082B257-F6D0-4BA0-AC80-A159AB509438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D082B257-F6D0-4BA0-AC80-A159AB509438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D082B257-F6D0-4BA0-AC80-A159AB509438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D082B257-F6D0-4BA0-AC80-A159AB509438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D082B257-F6D0-4BA0-AC80-A159AB509438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F03A68-E3DC-4BD4-BA58-488645FB3E66}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		outputpath = https:/github.com/newgen211/Video-Fitness.git
+	EndGlobalSection
+EndGlobal
